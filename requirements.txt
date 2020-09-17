@@ -1,7 +1,5 @@
 click
-Flask
 python-dateutil
 pytz
 PyYAML
-rasterio
 unicodecsv
